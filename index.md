@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fanmengjia/jioo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fanmengjia/jioo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+考证。
+这个对你以后的工作也会有很大帮助的。计算机二级、英语四六级、普通话证、教师资格证……等等，只要你觉得有可能用的上的证你就可以去考，只要复习充足，一次考过不是问题！这个要查阅学校规范，哪一年级开始可以考什么证都要铭记于心，以便之后报名
+大学生如何规划自己的四年生活
+多去图书馆。
+博览群书应该是每个好学学子的愿望吧！大学的图书馆就可以给你这个机会，不管是在那里看书还是借回宿舍翻看，图书馆的大门都会为你敞开的
+大学生如何规划自己的四年生活
+与专业老师、辅导员搞好关系。
+大学里学生与老师之间的关系没有初高中那么紧密，大多数学生四年有可能才见过十来次辅导员。但这并不代表他们不重要，如果你和他们打好关系，在某些事情上他们是可以给你提供更有效、更全面的信息的，这点特别重要
+大学生如何规划自己的四年生活
+经常进行体育锻炼。
+即使不为了健美的身材，为了你自己的身体健康，一个月也要跑几次长跑。大学生的体质普遍下降，但有一个好身体是生活、学习、工作的基础。所以各位一定要坚持锻炼
+大学生如何规划自己的四年生活
+与舍友搞好关系。
+大学里最亲密的就是舍友情了。其他同学一年就上课时间见几次，而舍友则是要朝夕相处的，要是关系不好会很尴尬的。如果你不能跟所有室友搞好关系，最起码要搞定一个，这样你平常吃饭，打水，洗澡才不会觉得孤单。
+大学生如何规划自己的四年生活
+学好专业课。
+大学不挂科是基本要求，如果你不思进取不准备拿奖学金，那你混日子也可以，但这是建立在你专业课成绩良好的基础上。你去找工作，人家要考察的就是你的专业技能！
+大学生如何规划自己的四年生活
+有空实习就找地方实习。
+实习经验对你来说是最宝贵的财富，有了这个你就可以在面试场上傲视群雄！这个并没有夸张，一个来给我们传授经验的hr说他们招聘最看中的就是工作经验，一份知名企业的实习经历可以抵过你的考试的非正常发挥
+大学生如何规划自己的四年生活
